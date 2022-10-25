@@ -3,7 +3,7 @@
 This is a sample application that demonstrates an E-commerce website using the JAVA EE. The application loads products a MySql database and displays them. Users can select to display products in a single category. Users can click on any product to get more information including pricing, reviews and rating. Users can select items and add them to their shopping cart
 
 Import Data
-I have included a data folder in this repo. Inside that folder will be 2 folders called src/main, and target. These 2 folders contain a Servlet and Hibernate files inside java/main foleder and jsp files are inside WebApp folder of the 2 collections that I use in this ecommerce demo.
+I have included a data folder in this repo. Inside that folder will be 2 folders called src/main, and target. These 2 folders contain Servlets and Hibernate files inside java/main folder and jsp files are inside WebApp folder that I use in this ecommerce demo.
 
 Live Demonstration
 The E-commerce demo can be viewed online here.
